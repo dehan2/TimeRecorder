@@ -15,4 +15,5 @@ Thank you!
 
 JHCha
 
+*Making this code was helped by peoples from 'Saeng-hwal coding(https://www.facebook.com/groups/codingeverybody/)'
 *This code refers the works of http://stackoverflow.com/questions/30679445/python-like-c-decorators
